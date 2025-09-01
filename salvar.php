@@ -1,8 +1,8 @@
 <?php
 // Configuração do banco
-$host = "localhost";
+$host = "127.0.0.1";
 $user = "root";   // usuário do MySQL
-$pass = "";       // senha do MySQL
+$pass = "123";       // senha do MySQL
 $db   = "formulario_db";
 
 // Conectar
